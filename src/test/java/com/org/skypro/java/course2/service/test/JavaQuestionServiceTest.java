@@ -4,7 +4,6 @@ import com.org.skypro.java.course2.ExaminerService.Service.JavaQuestionService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import com.org.skypro.java.course2.ExaminerService.Question;
-
 import java.util.Collection;
 import java.util.NoSuchElementException;
 

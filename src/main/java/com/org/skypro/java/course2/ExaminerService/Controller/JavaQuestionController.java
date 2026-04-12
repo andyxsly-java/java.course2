@@ -10,6 +10,7 @@ import java.util.Collection;
 
 @RestController
 
+
 public class JavaQuestionController {
 
     private final JavaQuestionService javaQuestionService;
