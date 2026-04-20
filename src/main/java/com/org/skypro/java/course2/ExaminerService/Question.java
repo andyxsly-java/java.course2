@@ -1,6 +1,5 @@
 package com.org.skypro.java.course2.ExaminerService;
 
-
 public class Question {
     private String question;
     private String answer;

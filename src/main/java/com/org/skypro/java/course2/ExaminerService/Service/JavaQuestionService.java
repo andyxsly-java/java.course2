@@ -6,6 +6,7 @@ import com.org.skypro.java.course2.ExaminerService.Question;
 import org.springframework.stereotype.Service;
 
 public class JavaQuestionService implements QuestionService {
+
     private final Set<Question> questions = new HashSet<>();
     private final Random random = new Random();
 

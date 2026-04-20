@@ -36,7 +36,6 @@ public class ExaminerServiceImpl implements ExaminerService {
             int index = random.nextInt(questionsList.size());
             result.add(questionsList.get(index));
         }
-
         return result;
     }
 }
